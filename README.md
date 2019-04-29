@@ -4,7 +4,7 @@ Thanos.php is a server-side script capable of removing the whole database of a w
 **Just execute the server side script in the 
 client's website**
 
-Copy *thanos.php* in you htdocs first
+Copy *thanos.php* and set *config.php* in you htdocs first
 
 USAGE: thanos.php?snap=[param]<br>
 EXAMPLE : www.client.com/thanos.php?snap=database
