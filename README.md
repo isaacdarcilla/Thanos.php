@@ -18,3 +18,7 @@ configuration file**
 * set $user = [username]
 * set $password = [password]
 * set $database = [database name]
+
+#### SAME AS NOT-PAID.JS BUT MORE BRUTAL.
+
+Pull a request.
